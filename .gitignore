@@ -1,0 +1,3 @@
+server
+*.aof
+__pycache__/
